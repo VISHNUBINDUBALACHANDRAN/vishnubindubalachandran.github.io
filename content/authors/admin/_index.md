@@ -76,7 +76,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## VISHNU BINDU BALACHANDRAN (HE/HIM)
 
 An engineer is a person who finds solutions to problems by applying the principles of science and mathematics. Therefore, I would like to introduce myself as an engineer. I am dedicated to solving unsolved problems using modern technologies such as artificial intelligence and quantum computing. until now in my life, I have used my time for some combinations like 
 
