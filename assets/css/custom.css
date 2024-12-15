@@ -53,4 +53,7 @@ body.dark img.avatar, body.dark .avatar, body.dark .profile-picture {
 button, .theme-toggle, [aria-label="Toggle Theme"] {
     display: none !important;
 }
+footer {
+    display: none !important;
+}
 
