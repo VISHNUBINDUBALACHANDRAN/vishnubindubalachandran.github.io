@@ -11,8 +11,8 @@
 
 /* Profile Picture Styles */
 img.avatar, .avatar, .profile-picture {
-    width: 200px; /* Increased size for larger profile image */
-    height: 200px;
+    width: 1200px; /* Increased size for larger profile image */
+    height: 1200px;
     border-radius: 50%; /* Circular profile image */
     object-fit: cover; /* Ensure the image fits within the circular frame */
     border: 4px solid transparent; /* Transparent border for base mode */
