@@ -6,12 +6,12 @@ title:
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name:  
+last_name:  
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:  
 
 # Is this the primary user of the site?
 superuser: true
