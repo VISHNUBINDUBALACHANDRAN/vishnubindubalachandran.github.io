@@ -1,0 +1,10 @@
+/* Dynamic Background and Text Color */
+.dynamic-bg {
+  background-color: white; /* Light mode background */
+  color: black; /* Light mode text color */
+}
+
+.dark .dynamic-bg {
+  background-color: #1a202c; /* Dark mode background */
+  color: white; /* Dark mode text color */
+}
