@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: VISHNU BINDU BALACHANDRAN (HE/HIM)
 
 # Name pronunciation (optional)
 name_pronunciation: VISHNU BINDU BALACHANDRAN (HE/HIM)
