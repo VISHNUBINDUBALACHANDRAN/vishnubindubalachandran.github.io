@@ -24,7 +24,12 @@ role: AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  Inventor with 4 Patents & 4 Trade Secret | Chess Player
+  - name:  Inventor with 4 Patents & 4 Trade Secret
+    URL:  
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name:  Chess Player
     url:  
 
 # Social network links
