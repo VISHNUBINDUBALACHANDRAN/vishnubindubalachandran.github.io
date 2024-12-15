@@ -22,8 +22,10 @@ removePathAccents: true
 ############################
 params:
   favicon: "/favicon.ico"
+  favicon_96: "/favicon-96x96.png"
   apple_touch_icon: "/apple-touch-icon.png"
-  manifest: "/site.webmanifest"
+  web_manifest: "/site.webmanifest"
+  favicon_svg: "/favicon.svg"
 
 ############################
 ## ADVANCED
