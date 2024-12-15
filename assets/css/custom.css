@@ -8,3 +8,13 @@
   background-color: #1a202c; /* Dark mode background */
   color: white; /* Dark mode text color */
 }
+
+
+/* Remove circular shape and background for the author image */
+img.avatar, .avatar, .profile-picture {
+    border-radius: 0; /* Removes circular shape */
+    background-color: transparent; /* Removes white background */
+    box-shadow: none; /* Removes any shadow */
+    width: auto; /* Optional: Adjust size */
+    height: auto;
+}
