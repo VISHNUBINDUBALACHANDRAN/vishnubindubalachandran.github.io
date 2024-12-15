@@ -21,16 +21,8 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename:  
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-   
+        css_class: "dynamic-bg"
+        
   
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
