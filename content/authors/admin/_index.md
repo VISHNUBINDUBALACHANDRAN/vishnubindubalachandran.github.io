@@ -12,7 +12,7 @@ first_name:
 last_name:  
 
 # Status emoji
-status:
+status: 
   icon:  
 
 # Is this the primary user of the site?
