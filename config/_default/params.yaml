@@ -25,28 +25,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
-# Site header
-header:
-  navbar:
-    enable: true
-    blox: "navbar"
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "Your Name"
-
-# Site footer
-footer:
-  copyright:
-    notice: '© 2024, VISHNU BINDU BALACHANDRAN'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
+ 
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
