@@ -1,17 +1,17 @@
 ---
 # Display name
-title: VISHNU BINDU BALACHANDRAN (HE/HIM)
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: VISHNU BINDU BALACHANDRAN (HE/HIM)
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: VISHNU 
-last_name: BINDU BALACHANDRAN (HE/HIM)
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
