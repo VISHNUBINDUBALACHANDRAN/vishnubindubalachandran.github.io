@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Research Scientist | Inventor with 4 Patents & 4 Trade Secret | Chess Player
+role: AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  
+  - name:  Inventor with 4 Patents & 4 Trade Secret | Chess Player
     url:  
 
 # Social network links
