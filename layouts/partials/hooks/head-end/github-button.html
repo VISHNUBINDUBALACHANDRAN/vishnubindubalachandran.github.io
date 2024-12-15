@@ -1,1 +1,21 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+<style>
+  /* Dynamic Background and Text Color */
+  .dynamic-bg {
+      background-color: white; /* Light mode background */
+      color: black; /* Light mode text color */
+  }
+
+  .dark .dynamic-bg {
+      background-color: #1a202c; /* Dark mode background */
+      color: white; /* Dark mode text color */
+  }
+</style>
+<script>
+  // Apply dark mode based on user preference
+  if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark');
+  } else {
+      document.documentElement.classList.remove('dark');
+  }
+</script>
