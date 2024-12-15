@@ -9,12 +9,15 @@
   color: white; /* Dark mode text color */
 }
 
-
-/* Remove circular shape and background for the author image */
+/* Remove border, outline, and background for author image */
 img.avatar, .avatar, .profile-picture {
-    border-radius: 0; /* Removes circular shape */
-    background-color: transparent; /* Removes white background */
-    box-shadow: none; /* Removes any shadow */
-    width: auto; /* Optional: Adjust size */
-    height: auto;
+    border: none;           /* Remove any border */
+    outline: none;          /* Remove any outline */
+    background-color: transparent; /* Transparent background */
+    box-shadow: none;       /* Remove shadow */
+}
+
+/* Ensure image adapts to system light/dark mode background */
+.dynamic-bg img.avatar {
+    background-color: inherit; /* Inherit page/system background color */
 }
