@@ -43,7 +43,6 @@ profiles:
     label: E-mail Me
     
  
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
