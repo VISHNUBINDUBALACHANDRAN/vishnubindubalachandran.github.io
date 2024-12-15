@@ -26,8 +26,11 @@ role: AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  Inventor with 4 Patents & 4 Trade Secrets
+  - name: Inventor with 4 Patents & 4 Trade Secrets
     URL:  
+  - name: Chess Player
+    URL:  
+
  
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
