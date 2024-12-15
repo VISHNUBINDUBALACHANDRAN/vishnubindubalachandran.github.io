@@ -60,3 +60,14 @@ footer {
 header, .header, #header, .site-header {
     display: none !important;
 }
+
+
+sections:
+  - block: custom-about
+    content:
+      title: About Me
+      text: |-
+        An engineer is a person who finds solutions to problems by applying the principles of science and mathematics. Therefore, I would like to introduce myself as an engineer. I am dedicated to solving unsolved problems using modern technologies such as artificial intelligence and quantum computing. until now in my life, I have used my time for some combinations like
+    design:
+      css_class: justify-about
+
