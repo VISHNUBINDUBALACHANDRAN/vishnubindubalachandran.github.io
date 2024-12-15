@@ -28,7 +28,7 @@ role: AI Research Scientist
 organizations:
   - name:  Inventor with 4 Patents & 4 Trade Secret
     URL:  
-
+ 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
