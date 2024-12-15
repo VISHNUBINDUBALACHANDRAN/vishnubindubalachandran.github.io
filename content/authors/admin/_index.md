@@ -52,9 +52,13 @@ profiles:
 An engineer is a person who finds solutions to problems by applying the principles of science and mathematics. Therefore, I would like to introduce myself as an engineer. I am dedicated to solving unsolved problems using modern technologies such as artificial intelligence and quantum computing. until now in my life, I have used my time for some combinations like 
 
 • Aerospace + Artificial Intelligence 
+
 • Material Science (Advanced Materials Discovery) + Artificial Intelligence
+
 • Predictive Health Maintenance + Artificial Intelligence 
+
 • Cybersecurity + Artificial Intelligence 
+
 • Financial Science + Artificial Intelligence
 
 Although my area of expertise is artificial intelligence, I am always prepared to leverage any scientific or technological advancements because, ultimately, it is the solution to the problem that matters, not the method used. For more information about my areas of expertise in artificial intelligence, the projects I have worked on, and the skills I have acquired throughout my career, as well as my achievements, please refer to the sections below. Feel free to contact me if you are interested in collaborating...
