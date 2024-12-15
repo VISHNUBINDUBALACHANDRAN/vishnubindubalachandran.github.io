@@ -9,15 +9,27 @@
   color: white; /* Dark mode text color */
 }
 
-/* Remove border, outline, and background for author image */
+/* Match Image Style with Header/Footer */
 img.avatar, .avatar, .profile-picture {
-    border: none;           /* Remove any border */
-    outline: none;          /* Remove any outline */
-    background-color: transparent; /* Transparent background */
-    box-shadow: none;       /* Remove shadow */
+    border-radius: 0 !important; /* Remove circular or rounded corners */
+    border: 1px solid inherit !important; /* Match border with parent container */
+    background-color: inherit !important; /* Match background color to parent container */
+    outline: none !important; /* Remove outline */
+    box-shadow: none !important; /* Remove any shadow */
 }
 
-/* Ensure image adapts to system light/dark mode background */
-.dynamic-bg img.avatar {
+/* Ensure Image Background Adapts to System Light/Dark Mode */
+body.light img.avatar, body.light .avatar, body.light .profile-picture {
+    background-color: #f8f9fa; /* Light mode header/footer color */
+    border-color: #f8f9fa; /* Light mode border color */
+}
+
+body.dark img.avatar, body.dark .avatar, body.dark .profile-picture {
+    background-color: #1a202c; /* Dark mode header/footer color */
+    border-color: #1a202c; /* Dark mode border color */
+}
+
+/* Dynamic Background Inheritance */
+.dynamic-bg img.avatar, .dynamic-bg .avatar, .dynamic-bg .profile-picture {
     background-color: inherit; /* Inherit page/system background color */
 }
