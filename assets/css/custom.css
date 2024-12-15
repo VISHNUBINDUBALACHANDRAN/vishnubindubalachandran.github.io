@@ -57,3 +57,6 @@ footer {
     display: none !important;
 }
 
+header, .header, #header, .site-header {
+    display: none !important;
+}
