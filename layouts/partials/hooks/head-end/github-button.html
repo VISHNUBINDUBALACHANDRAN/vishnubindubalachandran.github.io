@@ -1,4 +1,5 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <style>
   /* Dynamic Background and Text Color */
   .dynamic-bg {
@@ -10,7 +11,26 @@
       background-color: #1a202c; /* Dark mode background */
       color: white; /* Dark mode text color */
   }
+
+  /* Remove circular shape and ensure image blends with page background */
+  img.avatar, .avatar, .profile-picture {
+      border-radius: 0 !important; /* Remove circle or rounded corners */
+      border: none !important; /* Remove any border */
+      outline: none !important; /* Remove outline */
+      background-color: transparent !important; /* Transparent background */
+      box-shadow: none !important; /* Remove any shadow */
+  }
+
+  /* Ensure the image adapts to system background */
+  body.light img.avatar, body.light .avatar {
+      background-color: white; /* Light mode background */
+  }
+
+  body.dark img.avatar, body.dark .avatar {
+      background-color: #1a202c; /* Dark mode background */
+  }
 </style>
+
 <script>
   // Apply dark mode based on user preference
   if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
