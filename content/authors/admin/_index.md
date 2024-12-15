@@ -26,7 +26,7 @@ role: AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  Inventor with 4 Patents & 4 Trade Secret
+  - name:  Inventor with 4 Patents & 4 Trade Secrets
     URL:  
  
 # Social network links
