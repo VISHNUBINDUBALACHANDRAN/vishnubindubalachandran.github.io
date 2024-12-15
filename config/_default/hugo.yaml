@@ -16,7 +16,15 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
- 
+
+############################
+## SITE ICONS
+############################
+params:
+  favicon: "/favicon.ico"
+  apple_touch_icon: "/apple-touch-icon.png"
+  manifest: "/site.webmanifest"
+
 ############################
 ## ADVANCED
 ############################
