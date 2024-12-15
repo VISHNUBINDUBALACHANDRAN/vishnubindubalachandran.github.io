@@ -9,27 +9,41 @@
   color: white; /* Dark mode text color */
 }
 
-/* Match Image Style with Header/Footer */
+/* Profile Picture Styles */
 img.avatar, .avatar, .profile-picture {
-    border-radius: 0 !important; /* Remove circular or rounded corners */
-    border: 1px solid inherit !important; /* Match border with parent container */
+    width: 200px; /* Increased size for larger profile image */
+    height: 200px;
+    border-radius: 50%; /* Circular profile image */
+    object-fit: cover; /* Ensure the image fits within the circular frame */
+    border: 4px solid transparent; /* Transparent border for base mode */
     background-color: inherit !important; /* Match background color to parent container */
     outline: none !important; /* Remove outline */
-    box-shadow: none !important; /* Remove any shadow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for better emphasis */
 }
 
-/* Ensure Image Background Adapts to System Light/Dark Mode */
+/* Light Mode Profile Picture */
 body.light img.avatar, body.light .avatar, body.light .profile-picture {
-    background-color: #f8f9fa; /* Light mode header/footer color */
-    border-color: #f8f9fa; /* Light mode border color */
+    background-color: #f8f9fa; /* Light mode background */
+    border-color: #e5e7eb; /* Subtle border for light mode */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light mode shadow */
 }
 
+/* Dark Mode Profile Picture */
 body.dark img.avatar, body.dark .avatar, body.dark .profile-picture {
-    background-color: #1a202c; /* Dark mode header/footer color */
-    border-color: #1a202c; /* Dark mode border color */
+    background-color: #1a202c; /* Dark mode background */
+    border-color: #2d3748; /* Subtle border for dark mode */
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1); /* Dark mode shadow */
 }
 
 /* Dynamic Background Inheritance */
 .dynamic-bg img.avatar, .dynamic-bg .avatar, .dynamic-bg .profile-picture {
     background-color: inherit; /* Inherit page/system background color */
+}
+
+/* Responsive Profile Picture */
+@media (max-width: 768px) {
+    img.avatar, .avatar, .profile-picture {
+        width: 150px; /* Smaller size for mobile devices */
+        height: 150px;
+    }
 }
