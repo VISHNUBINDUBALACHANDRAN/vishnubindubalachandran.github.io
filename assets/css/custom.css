@@ -47,3 +47,10 @@ body.dark img.avatar, body.dark .avatar, body.dark .profile-picture {
         height: 150px;
     }
 }
+
+
+/* Hide dark/light theme toggle button */
+button, .theme-toggle, [aria-label="Toggle Theme"] {
+    display: none !important;
+}
+
