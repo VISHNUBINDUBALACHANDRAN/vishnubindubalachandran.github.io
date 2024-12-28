@@ -28,7 +28,7 @@ role: AI Research Scientist
 organizations:
   - name: Inventor with 4 Patents & 4 Trade Secrets
     URL:  
-  - name: District-Level Chess Champion
+  - name: District-Level Chess Silver Medalist
     URL:  
 
  
