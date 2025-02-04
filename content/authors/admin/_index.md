@@ -52,7 +52,7 @@ profiles:
 
 ## <span class="name-large">VISHNU BINDU BALACHANDRAN (HE/HIM)</span>
 
-" An engineer is a person who finds solutions to problems by applying the principles of science and mathematics ". Therefore, I would like to introduce myself as an engineer. I am dedicated to solving unsolved problems using modern technologies such as artificial intelligence and quantum computing. until now in my life, I have used my time for some combinations like 
+" An engineer is a person who finds solutions to problems by applying the principles of science and mathematics ". Therefore, I would like to introduce myself as an engineer. I am dedicated to solving unsolved problems using modern technologies such as artificial intelligence and quantum computing. I'm Author of 4 Patents & 4 Trade Secrets which invented in a 6 months of time. Until now in my life, I have used my time for some combinations like 
 
 • Aerospace + Artificial Intelligence 
 
