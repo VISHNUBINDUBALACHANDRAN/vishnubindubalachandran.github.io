@@ -6,7 +6,7 @@ title:
 name_pronunciation:  
 
  
- 
+
 # Full name (for SEO)
 first_name:  
 last_name:  
@@ -22,7 +22,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Research Scientist 
+role: AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
